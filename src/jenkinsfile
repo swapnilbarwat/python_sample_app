@@ -1,1 +1,2 @@
-net.demo.test()
+def jObject=net.demo.Client()
+jObject.test()
